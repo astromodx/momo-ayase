@@ -50,13 +50,15 @@ cd /sdcard/momo-ayase
 
 npm start
 
+Pronto agora só botar o número quando pedir pra conectar pelo código de pareamento: 😵‍💫
+
+para alterar o bot por comandos use !configurar 
+e siga o passo a passo do que vai ser enviado.
+
 se a momo fechar a conexão ou se o termux fechar use esses comandos para iniciar novamente:
 
 cd /sdcard/momo-ayase
 
 npm start
 
-Pronto agora só botar o número quando pedir pra conectar pelo código de pareamento: 😵‍💫
-
-para alterar o bot por comandos use !configurar 
-e siga o passo a passo do que vai ser enviado.
+obs: obrigado por fazer uso do meu projeto, amo vocês ❤️
