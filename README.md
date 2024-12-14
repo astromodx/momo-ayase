@@ -44,7 +44,9 @@ ou esse outro para fazer o download
 
 git clone https://github.com/astromodx/momo-ayase.git
 
-Depois que acabar use esse: 
+Depois que acabar use esses: 
+
+cd /sdcard/momo-ayase
 
 npm start
 
