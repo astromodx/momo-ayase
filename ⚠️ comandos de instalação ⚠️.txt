@@ -1,0 +1,46 @@
+*INSTALAÇÃO DA MOMO AYASE 5.0*
+
+vamos começar com a instalação no termux, caso não tenha as dependências instaladas use esses comandos para instalar ⤵️
+
+1: Use esse de baixo e permita:
+
+termux-setup-storage
+
+2: Use esse de baixo e confirme sempre com y: 
+
+pkg update
+
+3: Use esse de baixo e confirme sempre com y:
+
+pkg upgrade
+
+4: Use esse e confirme y se precisar:
+
+pkg install git
+
+5: Copie de um por um e execute no termux: 
+
+pkg install nodejs
+
+pkg install bash
+
+pkg install ffmpeg
+
+pkg install libwebp
+
+agora o caminho para a pasta da bot:
+
+cd /sdcard/momo-ayase
+
+Agora use esse comando para iniciar: 
+
+npm start
+
+se fechar a conexão ou o termux, use esses comandos para iniciar novamente:
+
+cd /sdcard/momo-ayase
+
+npm start
+
+//*para alterar o bot por comandos use !configurar 
+e siga o passo a passo do que vai ser enviado*//
