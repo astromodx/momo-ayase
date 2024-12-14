@@ -1,0 +1,26 @@
+[
+  {
+    "id": "matheuzinho",
+    "gps": []
+  },
+  {
+    "id": "120363141187770089@g.us",
+    "limite": 4,
+    "validado": false
+  },
+  {
+    "id": "120363318041627489@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363327396536716@g.us",
+    "limite": 5,
+    "validado": true
+  },
+  {
+    "id": "120363297817789904@g.us",
+    "limite": 5,
+    "validado": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "key": "G30-33759673475M30H-194969B",
+    "tipo": 1,
+    "dias": 30,
+    "cliente": "559292259340@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-27603900399M60H-195047B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "557598311753@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-32316987012M60H-195155B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "558894917490@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-27603900399M60H-202744B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "557598311753@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G200-9635595130M200H-204769B",
+    "tipo": 1,
+    "dias": 200,
+    "cliente": "85265195076@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-32318765994M60H-223571B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "558894917490@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-9635595130M60H-235944B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "85265195076@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G30-9634269155M30H-241378B",
+    "tipo": 1,
+    "dias": 30,
+    "cliente": "85265195076@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G60-12713838420M60H-291646B",
+    "tipo": 1,
+    "dias": 60,
+    "cliente": "553499358869@s.whatsapp.net",
+    "valor": 0
+  },
+  {
+    "key": "G99999-704073656552M99999H-536976B",
+    "tipo": 1,
+    "dias": 99999,
+    "cliente": "558393148349@s.whatsapp.net",
+    "valor": 0
+  }
+]
