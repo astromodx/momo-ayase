@@ -4,8 +4,6 @@ me chamo astromods e sou criador da momo-ayase
 
 versão atual: 5.0
 
-implementado na bot: gpt, plays e downloads a base da restiapi da momo, pinterest, menu brincadeiras, menucity e outros..
-
 vamos com a instalação: 
 
 caso não tenha termux instalado baixe esse:
