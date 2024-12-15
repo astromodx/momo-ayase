@@ -1,4 +1,4 @@
-*INSTALAÇÃO DA MOMO AYASE 5.0*
+*INSTALAÇÃO DO NATSU-END 2.0*
 
 vamos começar com a instalação no termux, caso não tenha as dependências instaladas use esses comandos para instalar ⤵️
 
@@ -28,9 +28,13 @@ pkg install ffmpeg
 
 pkg install libwebp
 
-agora o caminho para a pasta da bot:
+agora o caminho para a pasta do bot:
 
-cd /sdcard/momo-ayase
+cd /sdcard/natsu-end
+
+ou 
+
+cd /sdcard/download/natsu-end
 
 Agora use esse comando para iniciar: 
 
@@ -38,7 +42,7 @@ npm start
 
 se fechar a conexão ou o termux, use esses comandos para iniciar novamente:
 
-cd /sdcard/momo-ayase
+cd /sdcard/natsu-end
 
 npm start
 
