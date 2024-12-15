@@ -38,7 +38,7 @@ pkg install ffmpeg
 
 pkg install libwebp
 
-agora um caminho para a pasta da bot:
+agora um caminho para a pasta do bot:
 
 cd /sdcard
 
