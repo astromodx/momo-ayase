@@ -2,12 +2,12 @@ const menu = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
   
   return `╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🦋𝐃𝐈𝐕𝐄𝐑𝐒𝐎𝐒-𝐌𝐄𝐍𝐔𝐒🦋⃟⃟き
+╭┤き⃟🍁𝐃𝐈𝐕𝐄𝐑𝐒𝐎𝐒-𝐌𝐄𝐍𝐔𝐒🍁⃟⃟き
 ┃│${Emoji} » ${prefix}Menudono
 ┃│${Emoji} » ${prefix}Menuadm
 ┃│${Emoji} » ${prefix}Alteradores
@@ -19,7 +19,7 @@ const menu = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
 ┃│${Emoji} » ${prefix}Download
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🌸𝐂𝐌𝐃𝐒-𝐃𝐄-𝐌𝐄𝐌𝐁𝐑𝐎🌸⃟⃟き
+╭┤き⃟👤𝐂𝐌𝐃𝐒-𝐃𝐄-𝐌𝐄𝐌𝐁𝐑𝐎👤⃟き
 ┃│${Emoji} » ${prefix}Bug (Questione/Erros) 
 ┃│${Emoji} » ${prefix}Infodono (Info do dono)
 ┃│${Emoji} » ${prefix}Comprarbot (informações)
@@ -28,7 +28,7 @@ const menu = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
 ┃│${Emoji} » ${prefix}Infocmd (Comando) 
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🌼𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐕𝐎𝐒🌼⃟⃟き
+╭┤き⃟🌀𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐕𝐎𝐒🌀⃟⃟き
 ┃│${Emoji} » ${prefix}Ping (Velocidade/Up) 
 ┃│${Emoji} » ${prefix}Atividade (do Grupo)
 ┃│${Emoji} » ${prefix}Rankativo (do Grupo)
@@ -47,7 +47,7 @@ const menu = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
 ┃│${Emoji} » ${prefix}Instareels (Link)
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🍁𝐅𝐈𝐆𝐔𝐑𝐈𝐍𝐇𝐀𝐒🍁⃟き
+╭┤き⃟🥀𝐅𝐈𝐆𝐔𝐑𝐈𝐍𝐇𝐀𝐒🥀⃟き
 ┃│${Emoji} » ${prefix}Attp (Seu texto)
 ┃│${Emoji} » ${prefix}F (Marcar-foto)
 ┃│${Emoji} » ${prefix}Sticker (Marcar-foto)
@@ -64,12 +64,12 @@ const adms = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
 
 return `╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🪼𝐌𝐄𝐍𝐔 - 𝐀𝐃𝐌𝐈𝐍𝐒🪼⃟⃟き
+╭┤き⃟🌀𝐌𝐄𝐍𝐔 - 𝐀𝐃𝐌𝐈𝐍𝐒🌀⃟⃟き
 ┃│${Emoji} » ${prefix}Antiimg (1/0)
 ┃│${Emoji} » ${prefix}Antivideo (1/0)
 ┃│${Emoji} » ${prefix}Antiaudio (1/0)
@@ -155,9 +155,9 @@ const menudono = (prefix, NomeDoBot, Emoji, sender, NickDono, packname) => {
 
 return `​╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🫅🏻𝐌𝐄𝐍𝐔 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎🫅🏻⃟き
@@ -230,9 +230,9 @@ const menulogos = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
   
 return `╭═══════════════════ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🌄𝐌𝐄𝐍𝐔 - 𝐋𝐎𝐆𝐎𝐒🌄⃟⃟き
@@ -262,18 +262,18 @@ const alteradores = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return`╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🫧𝐀𝐋𝐓𝐄𝐑𝐀𝐑-𝐕𝐈𝐃𝐄𝐎🫧⃟き
+╭┤き⃟📽𝐀𝐋𝐓𝐄𝐑𝐀𝐑-𝐕𝐈𝐃𝐄𝐎📽⃟き
 ┃│${Emoji} » ${prefix}Videolento (marca)
 ┃│${Emoji} » ${prefix}Videorapido (marca)
 ┃│${Emoji} » ${prefix}Videocontrario (marca)
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🫧𝐀𝐋𝐓𝐄𝐑𝐀𝐑-𝐀𝐔𝐃𝐈𝐎🫧⃟き
+╭┤き⃟🎶𝐀𝐋𝐓𝐄𝐑𝐀𝐑-𝐀𝐔𝐃𝐈𝐎🎶⃟き
 ┃│${Emoji} » ${prefix}Audiolento (marca)
 ┃│${Emoji} » ${prefix}Audiorapido (marca)
 ┃│${Emoji} » ${prefix}Grave (marca)
@@ -293,9 +293,9 @@ const menuprem = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return `╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🌟𝐌𝐄𝐍𝐔-𝐏𝐑𝐄𝐌𝐈𝐔𝐌🌟⃟き
@@ -325,9 +325,9 @@ const brincadeiras = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return `​╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🧸𝐁𝐑𝐈𝐍𝐂𝐀𝐃𝐄𝐈𝐑𝐀𝐒🧸⃟⃟き
@@ -375,7 +375,7 @@ return `​╭━━━━━━━━━━━━━━━━━━━ ⪩
 ┃│${Emoji} » ${prefix}Death (Nome)
 ┃╰━━ ⪨
 ╰╮
-╭┤き⃟🫅🏻𝐓𝐎𝐏 𝟓 - 𝐑𝐀𝐍𝐊🫅🏻⃟⃟き
+╭┤き⃟🏅𝐓𝐎𝐏 𝟓 - 𝐑𝐀𝐍𝐊🏅⃟⃟き
 ┃│${Emoji} » ${prefix}Rankgay (5 gays)
 ┃│${Emoji} » ${prefix}Rankgado (5 gados)
 ┃│${Emoji} » ${prefix}Rankcorno (5 cornos)
@@ -394,9 +394,9 @@ const rpgmenu = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return `╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟⛩️𝐂𝐈𝐓𝐘-𝐎𝐅𝐈𝐂𝐈𝐀𝐋⛩️⃟き
@@ -435,9 +435,9 @@ const efeitos = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return `​╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🎭𝐌𝐄𝐍𝐔-𝐃𝐄-𝐄𝐅𝐄𝐈𝐓𝐎𝐒🎭⃟⃟き
@@ -475,9 +475,9 @@ const animes = (prefix, sender, NomeDoBot, Emoji, NickDono, packname) => {
 
 return `​╭━━━━━━━━━━━━━━━━━━━ ⪩
 ╰╮き👑⃟𝐈𝐍𝐅𝐎-𝐁𝐎𝐓/𝐔𝐒𝐄𝐑👑⃟き
-╭┤🐼 » Usuário: *@${sender.split("@")[0]}*
-┃│💡 » Minha Versão: *5.0*
-┃│🫅🏻 » Dono: *${NickDono}*
+╭┤✥ » Usuário: *@${sender.split("@")[0]}*
+┃│✥ » Minha Versão: *2.0*
+┃│✥ » Dono: *${NickDono}*
 ┃╰━━ ⪨
 ╰╮
 ╭┤き⃟🎨𝐀𝐍𝐈𝐌𝐄𝐒-𝐄𝐃𝐈𝐓𝐒🎨⃟き
