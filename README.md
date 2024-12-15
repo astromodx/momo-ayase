@@ -1,8 +1,8 @@
 Olá tudo bem com você? 🧸
 
-me chamo astromods e sou criador da momo-ayase 
+me chamo astromods e sou criador do natsu-end
 
-versão atual: 5.0
+versão atual: 2.0
 
 vamos com a instalação: 
 
@@ -44,11 +44,11 @@ cd /sdcard
 
 ou esse outro para fazer o download 
 
-git clone https://github.com/astromodx/momo-ayase.git
+git clone https://github.com/astromodx/natsu-end.git
 
 Depois que acabar use esses: 
 
-cd /sdcard/momo-ayase
+cd /sdcard/natsu-end
 
 npm start
 
@@ -59,7 +59,7 @@ e siga o passo a passo do que vai ser enviado.
 
 se a momo fechar a conexão ou se o termux fechar use esses comandos para iniciar novamente:
 
-cd /sdcard/momo-ayase
+cd /sdcard/natsu-end
 
 npm start
 
