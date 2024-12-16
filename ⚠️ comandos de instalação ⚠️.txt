@@ -46,5 +46,5 @@ cd /sdcard/natsu-end
 
 npm start
 
-//*para alterar o bot por comandos use !configurar 
+//*para alterar o bot por comandos use /configurar 
 e siga o passo a passo do que vai ser enviado*//
